@@ -1,0 +1,11 @@
+{
+	"auto_upgrade_last_run": 1353010489,
+	"installed_packages":
+	[
+		"FileDiffs",
+		"IPython Integration",
+		"Local History",
+		"Package Control",
+		"SublimeREPL"
+	]
+}
