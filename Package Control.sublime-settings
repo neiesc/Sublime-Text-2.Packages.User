@@ -1,11 +1,15 @@
 {
-	"auto_upgrade_last_run": 1353010489,
+	"auto_upgrade_last_run": 1353028360,
 	"installed_packages":
 	[
 		"FileDiffs",
 		"IPython Integration",
 		"Local History",
 		"Package Control",
-		"SublimeREPL"
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Soda",
+		"ZenCoding"
 	]
 }
